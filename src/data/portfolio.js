@@ -6,7 +6,7 @@ export const personal = {
   phone: "0767730655",
   email: "janangachandima07@gmail.com",
   github: "https://github.com/Jananga07",
-  linkedin: "https://linkedin.com/in/jananga-chandima",
+  linkedin: "https://www.linkedin.com/in/jananga-chandima-269070288/",
 };
 
 export const summary =
